@@ -11,6 +11,37 @@
 ## 📅 개발 기간
 > 2022.05.19 ~ 2022.05.26 (1주) </br>
 </br>
+
+## 🧑🏻‍💻 개발 멤버 소개
+<table>
+  <tr>
+    <td height="140px" align="center"><a href="https://github.com/J00HUI">
+      <img src="https://avatars.githubusercontent.com/J00HUI" width="140px"/> <br><br> 이주희</a><br></td>
+    <td height="140px" align="center"><a href="https://github.com/sa11k">
+      <img src="https://avatars.githubusercontent.com/sa11k" width="140px"/> <br><br> 송다경</a><br></td>
+  </tr>
+  <tr>
+      <td align="center">Front, Back</td><td align="center">Front, Back</td>
+  </tr>
+</table>
+</br>
+
+## 📄 프로젝트 설계
+| ERD | 
+|:-------:|
+| <img src="https://user-images.githubusercontent.com/83942393/218359076-17c177b3-447e-4856-a6a7-923a6f712e6d.jpg" width="70%"> | 
+</br>
+
+## ⚒️기술 스택
+### FrontEnd
+* Vue
+
+### BackEnd
+* SpringBoot
+
+### IDE
+
+### Tool
 </br>
 
 ## 💻 주요 기능
@@ -109,20 +140,13 @@
 | ![12  문자 알림](https://user-images.githubusercontent.com/83942393/204480185-9fa19a82-bbbd-4c8b-bdac-42c73862af62.gif) | 
 </br>
 
-## 🧑🏻‍💻 개발 멤버 소개
-<table>
-  <tr>
-    <td height="140px" align="center"><a href="https://github.com/J00HUI">
-      <img src="https://avatars.githubusercontent.com/J00HUI" width="140px"/> <br><br> 이주희</a><br></td>
-    <td height="140px" align="center"><a href="https://github.com/sa11k">
-      <img src="https://avatars.githubusercontent.com/sa11k" width="140px"/> <br><br> 송다경</a><br></td>
-  </tr>
-  <tr>
-      <td align="center">Front, Back</td><td align="center">Front, Back</td>
-  </tr>
-</table>
+## 🤙🏻협업 (Notion)
+* 프로젝트 진행사항 공유
+* 회의 내용 기록
+* 오류 해결 등 매일 프로젝트에 대해 기록
 </br>
 
-
-
-
+| Notion | 
+|:-------:|
+| <img src="https://user-images.githubusercontent.com/83942393/218359283-63f831ae-cca3-4e76-b995-f06854969b9a.jpg" width="100%"> | 
+</br>
