@@ -66,7 +66,7 @@
 
 ## 💻 주요 기능
 ### 홈
-| 홈 |
+| |
 |:-------:|
 | <img src="https://user-images.githubusercontent.com/83942393/218365776-1b2af2d1-f0b5-422d-89a3-59703950d12c.jpg"> |
 </br>
@@ -107,46 +107,39 @@
 | ![지역안전지수](https://user-images.githubusercontent.com/83942393/218367389-0fb551f0-8de6-408d-94ca-351e2aeb5dae.jpg)| 
 </br>
 
+### 아파트 매매 검색
+* 시, 군, 동을 선택하여 해당 지역에 해당하는 아파트 매매 내역을 조회할 수 있습니다.
 
-### 챗봇
-* 챗봇을 통해 궁금한 점을 질문하고 답변받을 수 있습니다.
-
-| | 
+| |
 |:-------:|
-| ![5  챗봇-짧](https://user-images.githubusercontent.com/83942393/204477453-672ba7b4-360c-429d-938c-ead8f2a0dadd.gif) | 
+| ![7  지도 매물 검색](https://user-images.githubusercontent.com/83942393/204477922-1787952b-d6b1-40c0-bb52-c924e8e8e08d.gif) |
 </br>
 
-### 아파트 매매 검색
-* 시, 군, 동을 선택하여 해당 지역에 해당하는 아파트 매매 내역을 검색할 수 있습니다.
+### 조회 내역 정렬
+* MergeSort 알고리즘 (O(logn))을 사용하여 정렬을 구현하였습니다.
 
 | | 
 |:-------:|
-| ![7  지도 매물 검색](https://user-images.githubusercontent.com/83942393/204477922-1787952b-d6b1-40c0-bb52-c924e8e8e08d.gif) | 
+|![mergeSort](https://user-images.githubusercontent.com/83942393/218368535-6afaf56b-1811-4065-8650-68544a1def7c.jpg) |
 </br>
 
 ### 아파트 매매 상세 조회
 * 지도에 나타난 마커 클릭 시 해당 매매의 상세 내역을 조회할 수 있습니다.
-* 해당 내역에는 사진, 가격, 상세 정보, 주변 시설, 상세 설명, 조회수 가 있습니다.
+* 공공데이터포털의 상권 정보 API 를 사용하여 주변 상권을 나타냈습니다.
 
-| | 
-|:-------:|
-| ![8  매물 상세 조회](https://user-images.githubusercontent.com/83942393/204478728-e59b0e3c-996c-4db7-886a-a3bcd8a39073.gif) | 
+| | |
+|:-------:|:-------:|
+| ![8  매물 상세 조회](https://user-images.githubusercontent.com/83942393/204478728-e59b0e3c-996c-4db7-886a-a3bcd8a39073.gif) | ![상권api](https://user-images.githubusercontent.com/83942393/218368937-44f7515e-214a-40c2-a1c5-3cc16c35d5fe.jpg) |
 </br>
 
-### 관심 매물 등록
-* 관심있는 매물을 찜하기 버튼을 통해 찜한 매물 리스트에 등록할 수 있습니다.
+### 관심 매물, 관심 지역 설정
+* 관심있는 매물을 찜하기 버튼을 통해 관심 매물로 등록할 수 있습니다.
+* 관심 매물은 찜한 매물 페이지에서 확인이 가능합니다.
+* 관심 지역을 설정할 수 있습니다.
 
-| | 
-|:-------:|
-| ![9  매물 찜하기](https://user-images.githubusercontent.com/83942393/204479257-960dec33-7c6f-4d4b-8c70-d8645ba0764f.gif) | 
-</br>
-
-### 관심 지역 설정
-* 관심 지역 설정 시 해당 지역의 매물을 간편하게 확인할 수 있습니다.
-
-| | 
-|:-------:|
-| ![10  관심지역 설정](https://user-images.githubusercontent.com/83942393/204479702-ff77fcf4-cd32-4fdb-a467-e20f32c57887.gif) | 
+| 관심 매물 | 관심 지역 | 
+|:-------:|:-------:|
+| ![9  매물 찜하기](https://user-images.githubusercontent.com/83942393/204479257-960dec33-7c6f-4d4b-8c70-d8645ba0764f.gif) | ![10  관심지역 설정](https://user-images.githubusercontent.com/83942393/204479702-ff77fcf4-cd32-4fdb-a467-e20f32c57887.gif) | 
 </br>
 
 ### 공인중개사 매물 등록
@@ -159,12 +152,21 @@
 </br>
 
 ### 문자 알림
-* 관심지역으로 설정한 지역에 새로운 매물이 등록 시 SMS 동의 한 사용자에 한해서 문자 알림 서비스를 제공합니다.
+* 관심지역으로 설정한 지역에 새로운 매물이 등록 시 SMS 동의 한 사용자에 한해서 등록 안내 문자 서비스가 제공됩니다.
 
 | | 
 |:-------:|
 | ![12  문자 알림](https://user-images.githubusercontent.com/83942393/204480185-9fa19a82-bbbd-4c8b-bdac-42c73862af62.gif) | 
 </br>
+
+### 챗봇
+* 챗봇을 통해 궁금한 점을 질문하고 답변받을 수 있습니다.
+
+| | 
+|:-------:|
+| ![5  챗봇-짧](https://user-images.githubusercontent.com/83942393/204477453-672ba7b4-360c-429d-938c-ead8f2a0dadd.gif) | 
+</br>
+
 
 ## 🤙🏻협업 (Notion)
 * 프로젝트 진행사항 공유
