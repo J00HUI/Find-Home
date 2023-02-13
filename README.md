@@ -4,7 +4,7 @@
 </br>
 
 ## 💡 서비스 소개
-[공공데이터포털](https://www.data.go.kr/) API와 [KAKAO Map](https://developers.kakao.com/) API 를 활용하여 아파트 매매 정보 제공과 커뮤니티 기능이 포함된 웹 서비스입니다.
+[공공데이터포털 API](https://www.data.go.kr/)와 [KAKAO Map API](https://developers.kakao.com/) 를 활용한 아파트 매매 정보 제공 서비스입니다.
 </br>
 </br>
 
@@ -13,36 +13,10 @@
 </br>
 </br>
 
-## 🧑🏻‍💻 개발 멤버 소개
-<table>
-  <tr>
-    <td height="140px" align="center"><a href="https://github.com/J00HUI">
-      <img src="https://avatars.githubusercontent.com/J00HUI" width="140px"/> <br><br> 이주희 <br>(Back-End) </a> <br></td>
-    <td height="140px" align="center"><a href="https://github.com/sa11k">
-      <img src="https://avatars.githubusercontent.com/sa11k" width="140px"/> <br><br> 송다경 <br>(Back-End) </a> <br></td>
-  </tr>
-  <tr>
-      <td align="center">👑<br/>Vue<br/></td>
-      <td align="center">REST API</td>
-  </tr>
-</table>
-</br>
-
-
-## ⚙ 프로젝트 설계
-</br>
-</br>
-
-## 💎 기술 스택
-버전 정보
-</br>
-</br>
-
-## 🛠 시스템 아키텍쳐
-</br>
-</br>
-
 ## 💻 주요 기능
+### 홈
+
+
 ### 회원가입
 * 일반 사용자 회원가입과 공인중개사 회원가입으로 나뉩니다. 
 * 아이디 중복검사 완료 후 가입이 완료됩니다.
@@ -133,6 +107,20 @@
 | | 
 |:-------:|
 | ![12  문자 알림](https://user-images.githubusercontent.com/83942393/204480185-9fa19a82-bbbd-4c8b-bdac-42c73862af62.gif) | 
+</br>
+
+## 🧑🏻‍💻 개발 멤버 소개
+<table>
+  <tr>
+    <td height="140px" align="center"><a href="https://github.com/J00HUI">
+      <img src="https://avatars.githubusercontent.com/J00HUI" width="140px"/> <br><br> 이주희</a><br></td>
+    <td height="140px" align="center"><a href="https://github.com/sa11k">
+      <img src="https://avatars.githubusercontent.com/sa11k" width="140px"/> <br><br> 송다경</a><br></td>
+  </tr>
+  <tr>
+      <td align="center">Front, Back</td><td align="center">Front, Back</td>
+  </tr>
+</table>
 </br>
 
 
