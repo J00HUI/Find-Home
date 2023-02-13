@@ -87,7 +87,7 @@
 
 | | 
 |:-------:|
-| ![4  공인중개사 승인](https://user-images.githubusercontent.com/83942393/204476370-28193b79-ac6b-494f-bce0-bf45de113faf.gif) | 
+| ![관리자](https://user-images.githubusercontent.com/83942393/218370604-13e0e545-054c-47f0-a069-1e9695bdd901.jpg) | 
 </br>
 
 ### 부동산 뉴스 크롤링
@@ -148,7 +148,7 @@
 
 | | 
 |:-------:|
-| ![11  공인중개사 매물 등록](https://user-images.githubusercontent.com/83942393/204479944-55a0784b-61e0-4939-af8a-ea9126134f31.gif) | 
+| ![매물등록](https://user-images.githubusercontent.com/83942393/218370833-3537f82e-5443-43e3-ab70-0853b7289aa1.jpg) | 
 </br>
 
 ### 문자 알림
