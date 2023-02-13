@@ -21,7 +21,7 @@
       <img src="https://avatars.githubusercontent.com/sa11k" width="140px"/> <br><br> 송다경</a><br></td>
   </tr>
   <tr>
-      <td align="center">Front, Back</td><td align="center">Front, Back</td>
+      <td align="center">FrontEnd </br> BackEnd</td><td align="center">FrontEnd</br> BackEnd</td>
   </tr>
 </table>
 </br>
@@ -125,7 +125,7 @@
 
 ### 아파트 매매 상세 조회
 * 지도에 나타난 마커 클릭 시 해당 매매의 상세 내역을 조회할 수 있습니다.
-* 공공데이터포털의 상권 정보 API 를 사용하여 주변 상권을 나타냈습니다.
+* 공공데이터포털의 상권 정보 API 를 사용하여 주변 상권 정보를 나타냈습니다.
 
 | | |
 |:-------:|:-------:|
