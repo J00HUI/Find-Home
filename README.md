@@ -5,6 +5,8 @@
 
 ## 💡 서비스 소개
 [공공데이터포털 API](https://www.data.go.kr/)와 [KAKAO Map API](https://developers.kakao.com/) 를 활용한 아파트 매매 정보 제공 서비스입니다.
+</br>
+
 1. 회원가입 및 로그인
     * 일반, 관리자, 공인 중개사
     * 비동기 아이디 중복 검사 진행
