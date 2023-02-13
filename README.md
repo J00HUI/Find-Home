@@ -13,6 +13,22 @@
 </br>
 </br>
 
+## 🧑🏻‍💻 개발 멤버 소개
+<table>
+  <tr>
+    <td height="140px" align="center"><a href="https://github.com/J00HUI">
+      <img src="https://avatars.githubusercontent.com/J00HUI" width="140px"/> <br><br> 이주희 <br>(Back-End) </a> <br></td>
+    <td height="140px" align="center"><a href="https://github.com/sa11k">
+      <img src="https://avatars.githubusercontent.com/sa11k" width="140px"/> <br><br> 송다경 <br>(Back-End) </a> <br></td>
+  </tr>
+  <tr>
+      <td align="center">👑<br/>Vue<br/></td>
+      <td align="center">REST API</td>
+  </tr>
+</table>
+</br>
+
+
 ## ⚙ 프로젝트 설계
 </br>
 </br>
