@@ -34,23 +34,46 @@
 
 ## ⚒️기술 스택
 ### FrontEnd
-* Vue
+* Vue.js (Vue2)
+* Vuex
+* axios
+* Bootstap-Vue
+
 
 ### BackEnd
+* Java `8.0.0`
 * SpringBoot
+* Maven
+* Lombok
+* MyBatis
+* MySQL
+* Swagger
 
 ### IDE
+* Eclipse
+* MySQL Workbench
+* Vscode
 
 ### Tool
+* Notion
+* Figma
+* AdobeXd
+* Mattermost
+* Webex
+* Discord
+* Postman
 </br>
 
 ## 💻 주요 기능
 ### 홈
+| 홈 |
+|:-------:|
+| <img src="https://user-images.githubusercontent.com/83942393/218365776-1b2af2d1-f0b5-422d-89a3-59703950d12c.jpg"> |
+</br>
 
-
-### 회원가입
-* 일반 사용자 회원가입과 공인중개사 회원가입으로 나뉩니다. 
-* 아이디 중복검사 완료 후 가입이 완료됩니다.
+### 회원가입 및 로그인
+* 일반, 관리자, 공인중개사 계정으로 나뉩니다.
+* 비동기 방식으로 아이디 중복검사를 진행합니다.
 * 가입 시 SMS 수신 동의에 체크한 경우, 문자 알림 서비스가 제공됩니다.
 
 | 일반 회원가입 | 공인중개사 회원가입 | 
@@ -58,21 +81,32 @@
 | ![1  일반 회원가입](https://user-images.githubusercontent.com/83942393/204470426-f5d8ff74-b6f0-4ec3-9d0f-a4fcd4b15da5.gif) | ![2  공인중개사 회원가입](https://user-images.githubusercontent.com/83942393/204468550-d500b4ad-5440-4f41-932d-db2433973ef3.gif) |
 </br>
 
-### 로그인
-* 회원가입 시 작성했던 아이디와 비밀번호를 통해 로그인합니다.
-
-| | 
-|:-------:|
-| ![3  로그인](https://user-images.githubusercontent.com/83942393/204474225-5fdc0dd0-0504-4ad5-9c69-80b990eb8575.gif) | 
-</br>
-
-### 공인 중개사 승인
-* 공인중개사 계정은 관리자 계정이 승인 시 완료됩니다.
+### 공인 중개사 계정
+* 공인 중개사는 관리자가 승인 시 가입완료됩니다.
+* 공인 중개사는 매물 등록이 가능합니다.
 
 | | 
 |:-------:|
 | ![4  공인중개사 승인](https://user-images.githubusercontent.com/83942393/204476370-28193b79-ac6b-494f-bce0-bf45de113faf.gif) | 
 </br>
+
+### 부동산 뉴스 크롤링
+* 크롤링을 사용하여 부동산 관련 뉴스 확인이 가능합니다.
+
+| | 
+|:-------:|
+| ![6  공지사항, 뉴스 크롤링](https://user-images.githubusercontent.com/83942393/204477580-452f7ed3-136d-44e9-9cb6-aea0aa93df67.gif)| 
+</br>
+
+### 지역 안전 지수
+* 각 지역의 안전지수를 교통, 화재, 범죄, 자연재해, 생활안전, 감염병의 등급의 평균을 차트로 보여줍니다.
+* chart.js 를 사용했습니다.
+
+| | 
+|:-------:|
+| ![지역안전지수](https://user-images.githubusercontent.com/83942393/218367389-0fb551f0-8de6-408d-94ca-351e2aeb5dae.jpg)| 
+</br>
+
 
 ### 챗봇
 * 챗봇을 통해 궁금한 점을 질문하고 답변받을 수 있습니다.
@@ -80,14 +114,6 @@
 | | 
 |:-------:|
 | ![5  챗봇-짧](https://user-images.githubusercontent.com/83942393/204477453-672ba7b4-360c-429d-938c-ead8f2a0dadd.gif) | 
-</br>
-
-### 공지사항, 뉴스 크롤링
-* 홈에서 간편하게 공지사항과 뉴스를 확인할 수 있습니다.
-
-| | 
-|:-------:|
-| ![6  공지사항, 뉴스 크롤링](https://user-images.githubusercontent.com/83942393/204477580-452f7ed3-136d-44e9-9cb6-aea0aa93df67.gif)| 
 </br>
 
 ### 아파트 매매 검색
