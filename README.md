@@ -33,8 +33,8 @@
 ## 🧑🏻‍💻 개발 멤버 소개
 <table>
   <tr>
-    <td height="140px" align="center"><a href="https://github.com/J00HUI">
-      <img src="https://avatars.githubusercontent.com/J00HUI" width="140px"/> <br><br> 이주희</a><br></td>
+    <td height="140px" align="center"><a href="https://github.com/joohee56">
+      <img src="https://avatars.githubusercontent.com/joohee56" width="140px"/> <br><br> 이주희</a><br></td>
     <td height="140px" align="center"><a href="https://github.com/sa11k">
       <img src="https://avatars.githubusercontent.com/sa11k" width="140px"/> <br><br> 송다경</a><br></td>
   </tr>
