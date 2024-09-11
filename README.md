@@ -44,10 +44,8 @@
 </table>
 </br>
 
-## 📄 프로젝트 설계
-| ERD | 
-|:-------:|
-| <img src="https://user-images.githubusercontent.com/83942393/218359076-17c177b3-447e-4856-a6a7-923a6f712e6d.jpg" width="60%"> | 
+## 📄 ERD
+<img src="https://user-images.githubusercontent.com/83942393/218359076-17c177b3-447e-4856-a6a7-923a6f712e6d.jpg" width="60%"> 
 </br>
 
 ## ⚒️기술 스택
