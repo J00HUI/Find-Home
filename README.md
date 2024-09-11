@@ -71,12 +71,8 @@
 * Vscode
 
 ### Tool
-* Notion
 * Figma
 * AdobeXd
-* Mattermost
-* Webex
-* Discord
 * Postman
 </br>
 
